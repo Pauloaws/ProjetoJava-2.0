@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin: 40px 0 40px 0;
+    color: rgb(43, 109, 167);
+}
+
+body {
+    background-color: rgb(219, 172, 213);
+}
+
+.box, form {
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    width: 250px;
+    height: 30px;
+    border-radius: 30px;
+    padding: 0 15px 0 15px;
+}
+button{
+    color: #b669ae;
+    width: 150px;
+    height: 25px;
+}
+.carrinho
+img
+{width:10rem;
+align-items: center;
+
+}
+
+.listarestoque{
+    background-color: #dbacd5;
+    
+}
+
+footer {
+    background-color: #cf8ec8;
+    padding: 20px;
+    border-radius: 12px;
+  }
+  
+  .footer-content {
+    text-align: center;
+    margin-bottom: 12px;
+    border-radius: 10px;
+  }
+  
+  .footer-bottom {
+    text-align: center;
+    color: #000000;
+    font-size: 12px;
+    border-radius: 10px;
+  }
